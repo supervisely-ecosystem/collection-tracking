@@ -1,5 +1,5 @@
 # Overview
-🚀 This collection is designed to cover classification task in
+🚀 This collection is designed to cover **tracking** task in
 [**Supervisely**](https://supervise.ly/). Before using these apps
 we recommend to try end-to-end working demo (retail labeling use case) - data and explanations are provided.
 
@@ -31,7 +31,7 @@ More concretely, Supervisely includes the following functionality:
 One challenge is to make it possible for everyone to train and apply SOTA Deep Learning models directly from the Web Browser. To address it, we introduce an open sourced Supervisely Agent. All you need to do is to execute a single command on your machine with the GPU that installs the Agent. After that, you keep working in the browser and all the GPU related computations will be performed on the connected machine(s).
 
 
-# 🎉 Apps Collection for tracking
+# 🎉 Apps Collection for Tracking
 
 To learn more about how to use every app, please go to app's readme page (links are provided).  
 Just add the apps to your team to start using them.
@@ -42,19 +42,26 @@ Collection consists of the following apps:
 
 ## Demo data and synthetic data
 
+#### Synthetic data:
 - Synthetic videos for tracking [app] (+)
 - Lemons annotated [project] (+)
 - Beautiful backgrounds [project] (-)
 
 ---
 
+#### Demo data:
 - MOT15 [project] (+-)
 - MOT15 Lite [3 videos, each 15 sec] [project] (-)
 
 
 ## Neural networks
 
+<div align="center" markdown>
+
 ### FairMOT bundle
+
+</div>
+
 
 #### Main:
 
