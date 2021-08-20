@@ -93,8 +93,14 @@ Collection consists of the following apps:
 
 
 # For Developers
-- you can use sources of [Serve MMClassification app](https://github.com/supervisely-ecosystem/mmclassification/tree/master/supervisely/serve) as example of how to prepare weights, initialize model and apply it to an image and how to correctly interpret predictions
-- NN apps are based on the original [MMClassification](https://github.com/open-mmlab/mmclassification). Official updates will be synchronized with from time to time or by request.
+You can use sources from from any application to create your own.
+
+You can also refer to our documentation:
+
+- How to Create APP (in develop 🧑🏼‍💻)
+- [Learn SDK Basics with IPython Notebooks](https://sdk.docs.supervise.ly/rst_templates/notebooks/notebooks.html)  
+- [Complete Python SDK](https://sdk.docs.supervise.ly/sdk_packages.html)
+
 
 # Contact & Questions & Suggestions
 
