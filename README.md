@@ -48,8 +48,8 @@ Collection consists of the following apps:
 
 ---
 
-- FairMOT15 [project] (+-)
-- Shorten FairMOT [3 videos, each 15 sec] [project] (-)
+- MOT15 [project] (+-)
+- MOT15 Lite [3 videos, each 15 sec] [project] (-)
 
 
 ## Neural networks
@@ -79,7 +79,7 @@ Collection consists of the following apps:
 
 #### Export
 
-- Export to MOT (+-) (?)
+- Export to MOT (+-)
 
 #### Utils
 
