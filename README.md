@@ -42,16 +42,17 @@ Collection consists of the following apps:
 
 ## Demo data and synthetic data
 
-#### Synthetic data:
-- Synthetic videos for tracking [app] (+)
-- Lemons annotated [project] (+)
-- Beautiful backgrounds [project] (-)
-
----
 
 #### Demo data:
 - MOT15 [project] (+-)
 - MOT15 Lite [3 videos, each 15 sec] [project] (-)
+
+---
+
+#### Synthetic data:
+- Synthetic videos for tracking [app] (+)
+- Lemons annotated [project] (+)
+- Beautiful backgrounds [project] (-)
 
 
 ## Neural networks
