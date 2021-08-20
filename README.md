@@ -36,20 +36,60 @@ One challenge is to make it possible for everyone to train and apply SOTA Deep L
 To learn more about how to use every app, please go to app's readme page (links are provided).  
 Just add the apps to your team to start using them.
 
-<img src=""/>
+<!-- <img src=""/> -->
 
 Collection consists of the following apps:
 
 ## Demo data and synthetic data
 
+- Synthetic videos for tracking [app] (+)
+- Lemons annotated [project] (+)
+- Beautiful backgrounds [project] (-)
+
+---
+
+- FairMOT15 dataset [project] (-)
+- Shorten FairMOT [3 videos, each 15 sec] [project] (-)
+
 
 ## Neural networks
 
+### FairMOT bundle
+
+#### Main:
+
+- Train FairMOT (+)
+- Serve FairMOT (+)
+
+#### Additional:
+
+- Visualize FairMOT (+)
 
 ## Integration into labeling tool
 
+- Apply NN to videos project (+)
 
 ## Auxiliary apps
+
+#### Import
+
+- Import MOT (+-)
+- Import videos by URLs from txt file (+)
+- Import videos from cloud storage (+)
+
+#### Export
+
+- Export to MOT (+-) (?)
+
+#### Utils
+
+- Convert Video Classes Shape (+-)
+- Video objects stats for every class (+)
+- Split videos (+-)
+- Video stat ???
+- Render video from images (+-)
+
+
 
 
 # For Developers
