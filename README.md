@@ -48,7 +48,7 @@ Collection consists of the following apps:
 
 ---
 
-- FairMOT15 dataset [project] (-)
+- FairMOT15 [project] (+-)
 - Shorten FairMOT [3 videos, each 15 sec] [project] (-)
 
 
