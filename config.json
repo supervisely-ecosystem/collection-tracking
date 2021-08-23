@@ -1,0 +1,10 @@
+{
+  "name": "Tracking collection",
+  "type": "collection",
+  "categories": [
+    "neural network"
+  ],
+  "description": "Training, inference, ai-assisted labeling, synthetic data and more",
+  "icon": "https://imgur.com/px9dD2q.png",
+  "icon_cover": true
+}
