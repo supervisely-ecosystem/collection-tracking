@@ -44,7 +44,8 @@ Collection consists of the following apps:
 
 
 #### Demo data:
-- [MOT15 Lite](https://ecosystem.supervise.ly/projects/mot15-lite-project) — a stripped-down version of the MOT15 dataset. Contains 6 short clips from the original MOT15 - 3 in the train and 3 in the test.
+- [MOT15 Lite](https://ecosystem.supervise.ly/projects/mot15-lite-project) — a stripped-down version of the MOT15 dataset. Contains 6 short clips from the original MOT15:  
+3 videos in the train and 3 videos in the test.
 
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/mot15-lite-project
 " src="https://imgur.com/ZtYQmgO.png" width="350px" style='padding-bottom: 10px'/>
