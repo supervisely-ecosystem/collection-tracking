@@ -44,16 +44,24 @@ Collection consists of the following apps:
 
 
 #### Demo data:
-- MOT15 [project] (+-)
-- MOT15 Lite [3 videos, each 15 sec] [project] (-)
+- [MOT15 Lite](https://ecosystem.supervise.ly/projects/mot15-lite-project) — a stripped-down version of the MOT15 dataset. Contains 6 short clips from the original MOT15 - 3 in the train and 3 in the test.
 
----
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/mot15-lite-project
+" src="https://imgur.com/ZtYQmgO.png" width="350px" style='padding-bottom: 10px'/>
+
 
 #### Synthetic data:
-- Synthetic videos for tracking [app] (+)
-- Lemons annotated [project] (+)
-- Beautiful backgrounds [project] (-)
+-  [Synthetic videos for tracking](https://ecosystem.supervise.ly/apps/synthetic-videos-for-tracking) — an application that allows you to create synthetic videos based on an annotated project and a set of static backgrounds.
 
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/synthetic-videos-for-tracking" src="https://imgur.com/o3RMxAU.png" width="350px" style='padding-bottom: 10px'/>
+
+- [Lemons (Annotated)](https://ecosystem.supervise.ly/projects/lemons-annotated) — labeled lemons and kiwi. You can use them to generate synthetic videos as foregrounds example.  
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/lemons-annotated" src="https://imgur.com/SjUX1IZ.png" width="350px" style='padding-bottom: 10px'/>
+
+- [Beautiful backgrounds](https://ecosystem.supervise.ly/projects/beautiful-backgrounds-project) — a set of 1000 backgrounds in FullHD format. You can use them to generate synthetic videos as backgrounds example.
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/beautiful-backgrounds-project" src="https://imgur.com/I8fThhZ.png" width="350px" style='padding-bottom: 10px'/>
 
 ## Neural networks
 
@@ -66,28 +74,47 @@ Collection consists of the following apps:
 
 #### Main:
 
-- Train FairMOT (+)
-- Serve FairMOT (+)
+- [Train FairMOT](https://ecosystem.supervise.ly/apps/supervisely-ecosystem%252Ffairmot%252Fsupervisely%252Ftrain) — training dashboard with customizable hyperparameters and monitor metrics in real time
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/FairMOT/tree/master/supervisely/train" src="https://imgur.com/Mk1gpGJ.png" width="350px" style='padding-bottom: 10px'/>
+
+- [Serve FairMOT](https://ecosystem.supervise.ly/apps/supervisely-ecosystem%252Ffairmot%252Fsupervisely%252Fserve) — deploy your model as Rest-API service and connect it with other apps from Ecosystem
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/FairMOT/supervisely/serve" src="https://imgur.com/ksDJmF0.png" width="350px" style='padding-bottom: 10px'/>
 
 #### Additional:
 
-- Visualize FairMOT (+)
+- [Visualize FairMOT](https://ecosystem.supervise.ly/apps/supervisely-ecosystem%252Ffairmot%252Fsupervisely%252Fvisualize) — compare the quality of your checkpoints on the same video.
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/FairMOT/supervisely/visualize" src="https://imgur.com/Ni9d1DE.png" width="350px" style='padding-bottom: 10px'/>
 
 ## Integration into labeling tool
 
-- Apply NN to videos project (+)
+- [Apply NN to videos project](https://ecosystem.supervise.ly/apps/apply-nn-to-videos-project) — apply served checkpoint to video project.
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/apply-nn-to-videos-project" src="https://imgur.com/LDo8K1A.png" width="350px" style='padding-bottom: 10px'/>
 
 ## Auxiliary apps
 
 #### Import
 
-- Import MOT (+-)
-- Import videos by URLs from txt file (+)
-- Import videos from cloud storage (+)
+- [Import MOT](https://ecosystem.supervise.ly/apps/import-mot-format) — import MOTChallenge dataset to your Workspace as Supervisely project.
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/import-mot-format" src="https://imgur.com/26bV6Nh.png" width="350px" style='padding-bottom: 20px'/>
+
+- [Import videos by URLs from txt file](https://ecosystem.supervise.ly/apps/import-videos-by-urls-from-txt)
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/import-videos-by-urls-from-txt" src="https://imgur.com/X7ITSDa.png" width="350px" style='padding-bottom: 20px'/>
+
+- [Import videos from cloud storage](https://ecosystem.supervise.ly/apps/import-videos-from-cloud-storage)
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/import-videos-from-cloud-storage" src="https://imgur.com/E4NBVt1.png" width="350px" style='padding-bottom: 20px'/>
 
 #### Export
 
-- Export to MOT (+-)
+- [Export to MOT](https://ecosystem.supervise.ly/apps/export-to-mot-format) — export Supervisely videos project in MOTChallenge dataset format.
+
+<img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/export-to-mot-format" src="https://imgur.com/XLOsIRN.png" width="350px" style='padding-bottom: 20px'/>
 
 #### Utils
 
