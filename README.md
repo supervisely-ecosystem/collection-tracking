@@ -60,7 +60,7 @@ Collection consists of the following apps:
 
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/lemons-annotated" src="https://imgur.com/SjUX1IZ.png" width="350px" style='padding-bottom: 10px'/>
 
-- [Beautiful backgrounds](https://ecosystem.supervise.ly/projects/beautiful-backgrounds-project) — a set of 1000 backgrounds in FullHD format. You can use them to generate synthetic videos as backgrounds example.
+- [Beautiful backgrounds](https://ecosystem.supervise.ly/projects/beautiful-backgrounds-project) — a set of 1000 backgrounds in FullHD resolution. You can use them to generate synthetic videos as backgrounds example.
 
 <img data-key="sly-module-link" data-module-slug="supervisely-ecosystem/beautiful-backgrounds-project" src="https://imgur.com/I8fThhZ.png" width="350px" style='padding-bottom: 10px'/>
 
