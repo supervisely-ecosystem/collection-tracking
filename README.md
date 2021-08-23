@@ -67,7 +67,7 @@ Collection consists of the following apps:
 
 <div align="center" markdown>
 
-## FairMOT bundle
+### FairMOT bundle
 
 </div>
 
